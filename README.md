@@ -226,12 +226,12 @@ The top employee-demanded interventions (strict action on abuse, a working compl
 ## 👤 About the Analyst
 
 **Shiva Mishra**
-HR Intern | TISS Mumbai — Labour Studies & Social Protection (LSP)
+HR Intern | TISS Mumbai — Master's in Labour Studies (LSP)
 Specialisation: HR Analytics & People Technology
 
 This project was independently designed and executed during my internship at Ralson India Limited. I owned the full pipeline — from interview script design to final recommendations — and presented findings directly to HR management.
 
-📫 [Connect on LinkedIn](#) · 📁 [More Projects](https://github.com/ShivaMishra-HRAnalytics)
+📫 [(https://www.linkedin.com/in/shiva-mishraa)](#) · 📁 [More Projects](https://github.com/ShivaMishra-HRAnalytics)
 
 ---
 
