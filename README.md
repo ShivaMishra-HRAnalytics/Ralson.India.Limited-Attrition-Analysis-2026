@@ -21,9 +21,9 @@
 
 ## 📸 Dashboard Preview
 
-![Project Summary Dashboard](dashboard_1.png)
+![Project Summary Dashboard](dashboard.1.png)
 
-![Root Causes & Recommendations](dashboard_2.png)
+![Root Causes & Recommendations](dashboard.2.png)
 
 > *"95 employees walked out the door — not because of salary, not because of personal reasons — but because HR ignored their complaint. That's not attrition. That's a system failure."*
 
