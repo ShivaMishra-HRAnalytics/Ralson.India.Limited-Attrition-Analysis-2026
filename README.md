@@ -19,6 +19,11 @@
 
 ## ⚡ Project at a Glance
 
+## 📸 Dashboard Preview
+
+![Project Summary Dashboard](dashboard.1.png)
+(dashboard.2.png)
+
 > *"95 employees walked out the door — not because of salary, not because of personal reasons — but because HR ignored their complaint. That's not attrition. That's a system failure."*
 
 This is not a textbook case study. This is a **live, independent field research project** conducted inside a tyre manufacturing plant — with real workers, real pain points, and real consequences. Every number in this repository represents a human being who left a job and was willing to tell us exactly why.
